@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const girlName = "Mariya Naaz";
 
         const cakeHtml = `
-            <img src="C:\Users\Nadeem\OneDrive\Desktop\3.jpg" alt="Virtual Cake">
+            <img src="3.jpg" alt="Virtual Cake">
             <p>${girlName}!</p>
         `;
         virtualCake.innerHTML = cakeHtml;
